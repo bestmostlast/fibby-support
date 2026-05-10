@@ -1,5 +1,3 @@
-# FIBBY Support
-Contact: bestmostlast@gmail.com
 
 FIBBY Privacy Policy
 
@@ -11,5 +9,8 @@ stored locally on your device only.
 
 No account registration is required. No analytics or 
 third-party tracking is used.
+
+
+FIBBY Support
 
 Contact: bestmostlast@gmail.com
